@@ -30,6 +30,12 @@
 			<organization>Subtitle-Synchronizer</organization>
 			<organizationUrl>https://github.com/Subtitle-Synchronizer</organizationUrl>
 		</developer>
+		<developer>
+			<name>Toborobot</name>
+			<email>developer@toborobot.ru</email>
+			<organization>Subtitle-Synchronizer</organization>
+			<organizationUrl>https://github.com/Subtitle-Synchronizer</organizationUrl>
+		</developer>
 	</developers>
 
 	<properties>
