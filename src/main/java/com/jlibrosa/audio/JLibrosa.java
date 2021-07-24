@@ -654,7 +654,7 @@ public class JLibrosa {
 			for (int p = 0; p < mChannels; p++) {
 				frameVal = frameVal + magValueArray[p][q];
 			}
-			meanBufferList.add(Float.parseFloat(df.format(frameVal / mChannels)));
+			meanBufferList.add(Float.parseFloat(df.format(frameVal / mChannels).replace(',','.')));
 			
 		}
 		
