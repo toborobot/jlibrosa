@@ -1,4 +1,4 @@
-# jlibrosa for by toborobot to fix issues with locales
+# jlibrosa by toborobot to fix issues with locales
 
 jLibrosa has been conceptualized to build as an equivalent of Python's librosa library. 
 
